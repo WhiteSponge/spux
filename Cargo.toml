@@ -1,0 +1,22 @@
+[package]
+name = "spux"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["David Lin"]
+description = "A handcrafted and opinionated library of minimal loaders for Leptos."
+repository = "https://github.com/WhiteSponge/spux.git"
+homepage = "https://github.com/WhiteSponge/spux"
+readme = "README.md"
+keywords = ["leptos", "loader", "web", "ui", "spinner"]
+categories = ["gui", "web-programming"]
+
+[dependencies]
+leptos = { version = "0.7.7" }
+
+[features]
+spinners = []
+pulsers = []
+csr = ["leptos/csr"]
+ssr = ["leptos/ssr"]
+hydrate = ["leptos/hydrate"]
