@@ -7,7 +7,10 @@ Spux is a handcrafted and opinionated library of minimal loaders for Leptos.
 
 ## Preview
 
-
+![spux_video_square](https://github.com/user-attachments/assets/fe04b9b4-5384-4136-a6af-5a7f4007af3e)
+![spux_video_triangle](https://github.com/user-attachments/assets/5764b014-9bd4-40d4-8c63-ffa110b7af4f)
+![spux_video_filled_square](https://github.com/user-attachments/assets/bb45702f-34c4-4578-92ac-7f2fcbacf6ce)
+![spux_video_partial_circle](https://github.com/user-attachments/assets/9141b93d-5c8d-4d98-b60d-a5e05d158362)
 
 ## Getting started
 
