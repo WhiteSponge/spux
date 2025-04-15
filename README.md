@@ -2,7 +2,7 @@
 
 Spux is a handcrafted and opinionated library of minimal loaders for Leptos.
 
-[![Crates.io](https://crates.io/crates/spux)
+[![Crates.io](https://crates.io/crates/spux)]
 [![Documentation](https://docs.rs/spux/badge.svg)](https://docs.rs/spux)
 
 ## Preview
