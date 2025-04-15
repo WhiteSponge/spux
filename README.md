@@ -12,12 +12,19 @@ Spux is a handcrafted and opinionated library of minimal loaders for Leptos.
 ![spux_video_filled_square](https://github.com/user-attachments/assets/bb45702f-34c4-4578-92ac-7f2fcbacf6ce)
 ![spux_video_partial_circle](https://github.com/user-attachments/assets/9141b93d-5c8d-4d98-b60d-a5e05d158362)
 
+![spux_video_circle](https://github.com/user-attachments/assets/d975ebe2-f0af-4ed2-b432-b39779a392fb)
+![spux_video_diamond](https://github.com/user-attachments/assets/3b37920e-6e62-477b-8359-5cf4d7bc9aea)
+![spux_video_filled_circle](https://github.com/user-attachments/assets/782bbfd8-f08b-4f4a-83cb-cf9b60e931c6)
+![spux_video_filled_diamond](https://github.com/user-attachments/assets/841e60c0-700c-45fb-a1e6-f2913d511567)
+
 ## Getting started
 
 First install Leptos from [leptos.dev](https://leptos.dev)
 
 Then start a new Leptos project with either of the following commands:
+
 Axum: `cargo leptos new --git https://github.com/leptos-rs/start-axum`
+
 Actix Web: `cargo leptos new --git https://github.com/leptos-rs/start-actix` 
 
 Lastly install and add Spux at the root of the new project
